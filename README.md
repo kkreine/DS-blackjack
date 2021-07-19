@@ -1,1 +1,1 @@
-# blackjack
+This is a Java blackjack card game made for the Data Structures course at Loyola University New Orleans.
